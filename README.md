@@ -13,7 +13,6 @@ We investigate whether the "noisy quantisation" model proposed for addition erro
 .
 ├── Collect+categorise_multiplication/        # Dataset construction (operand pair sampling) + model inference + analysis
 ├── additional_figures/               # Additional analysis (carry potential etc.) + figures
-├── analysis/                 # Carry potential, parity preservation, and accuracy analysis
 └── requirements.txt
 ```
 
